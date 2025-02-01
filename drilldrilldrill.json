@@ -2,7 +2,7 @@
     "name": "Drill drill drill baby coin",
     "symbol": "DDDB",
     "description": "Coin commemorating the most incredible oil production wells in the world",
-    "image": "https://github.com/commonlisp/testcoin/blob/b3b00ba2a1f8cd218fa8fd3f4d35f348ab629eb3/drilldrilldrillcoin.png",
+    "image": "https://raw.githubusercontent.com/commonlisp/testcoin/f48acd3d88ec7983f3ac8a996e0f62841fdb4ff3/drilldrilldrillcoin.png",
     "attributes": [
       {
         "trait_type": "Item",
